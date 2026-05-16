@@ -152,8 +152,8 @@ systemctl restart mysql
 ## 9. Tài khoản demo
 | Vai trò | Username | Password |
 |---------|----------|----------|
-| Admin | admin | Admin@2026 |
-| Customer | customer | Customer@2026 |
+| Admin | admin | Gc^Cu6CT(scxeZbG |
+| Customer | deno9099 | deno9099 |
 
 ---
 
