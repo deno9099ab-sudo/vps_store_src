@@ -37,9 +37,9 @@ VPS Store là website thương mại điện tử chuyên cung cấp dịch vụ
 ## 5. Phân công nhiệm vụ
 | Thành viên | Nhiệm vụ |
 |-----------|---------|
-| Nguyễn Văn A | Setup VPS, cài LAMP Stack, cấu hình Apache |
-| Trần Thị B | Cài WordPress, WooCommerce, theme, plugin |
-| Lê Văn C | Cấu hình domain, SSL, bảo mật, deploy |
+| Nguyễn Văn Vinh | Thiết kế và xây dựng giao diện website bán VPS; tạo danh mục sản phẩm, trang chủ, trang chi tiết sản phẩm, giỏ hàng và thanh toán trực tuyến bằng WooCommerce. |
+| Nguyễn Huy Hoàng | Tìm hiểu công nghệ WordPress, XAMPP, PHP và MySQL; cài đặt môi trường phát triển website; xây dựng cơ sở dữ liệu và cấu hình hệ thống. |
+| Nguyễn Việt Dũng | Viết báo cáo đề tài, tổng hợp nội dung, kiểm thử website, chỉnh sửa giao diện và hoàn thiện các chức năng của hệ thống trước khi nghiệm thu. |
 
 ---
 
@@ -159,9 +159,9 @@ systemctl restart mysql
 
 ## 10. Hình ảnh minh họa
 ![Trang chủ](1.png)
-![Trang sản phẩm](screenshots/products.png)
-![Trang thanh toán](screenshots/checkout.png)
-![Trang admin](screenshots/admin.png)
+![Trang sản phẩm](2.png)
+![Trang thanh toán](3.png)
+![Trang admin](4.png)
 
 ---
 
