@@ -23,7 +23,7 @@ VPS Store là website thương mại điện tử chuyên cung cấp dịch vụ
 |-----|-----------|------|
 | 1 | Nguyễn Văn Vinh | 23810310047 |
 | 2 | Nguyễn Huy Hoàng | 23810310064 |
-| 3 | Nguyễn Việt Dũn | 23810310062 |
+| 3 | Nguyễn Việt Dũng | 23810310062 |
 
 ---
 
