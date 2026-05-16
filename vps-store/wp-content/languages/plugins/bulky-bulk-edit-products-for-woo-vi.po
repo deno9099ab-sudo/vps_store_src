@@ -1,0 +1,730 @@
+# Translation of Plugins - Bulky &#8211; Bulk Edit Products for WooCommerce - Development (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - Bulky &#8211; Bulk Edit Products for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-26 04:33:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Bulky &#8211; Bulk Edit Products for WooCommerce - Development (trunk)\n"
+
+#: admin/ajax.php:82
+msgid "Save column width failed"
+msgstr "Lưu chiều rộng cột không thành công"
+
+#: admin/ajax.php:80
+msgid "Save column width successfully"
+msgstr "Lưu chiều rộng cột thành công"
+
+#. Description of the plugin
+#: bulky-bulk-edit-products-for-woo.php
+msgid "A helpful tool that allows you to bulk edit available attributes of products such as ID, Title, Content,..."
+msgstr "Công cụ hữu ích cho phép bạn chỉnh sửa hàng loạt thuộc tính có sẵn của sản phẩm như ID, Tiêu đề, Nội dung,..."
+
+#: admin/editor.php:528
+msgid "Filter include variation"
+msgstr "Bộ lọc bao gồm biến thể"
+
+#: admin/editor.php:492
+msgid "Price"
+msgstr "Giá"
+
+#: includes/data.php:108
+msgid "Publish date"
+msgstr "Ngày xuất bản"
+
+#: includes/data.php:60
+msgid "Scheduled"
+msgstr "Đã lên lịch"
+
+#. translators: %s contains the name of the original product.
+#: admin/ajax.php:656
+msgid "%s (Copy)"
+msgstr "%s (Sao chép)"
+
+#. Translators: %d stock amount
+#: admin/ajax.php:454
+msgid "Stock: %d"
+msgstr "Cổ phần:%d"
+
+#: admin/admin.php:24
+msgid "Bulky"
+msgstr "Bulky"
+
+#: admin/editor.php:60
+msgid "Exit full screen"
+msgstr "Thoát chế độ toàn màn hình"
+
+#: includes/support.php:46
+msgid "Auto update key"
+msgstr "Tự động cập nhật lõi"
+
+#: includes/i18n.php:56
+msgid "Revert all product in this point"
+msgstr "Hoàn nguyên tất cả sản phẩm tại thời điểm này"
+
+#: includes/i18n.php:55
+msgid "Replace"
+msgstr "Thay thế"
+
+#: includes/i18n.php:54
+msgid "Find"
+msgstr "Tìm"
+
+#: includes/i18n.php:53
+msgid "Invalid or duplicated SKU"
+msgstr "SKU không hợp lệ hoặc trùng lặp"
+
+#: includes/i18n.php:52
+msgid "Nothing change to save"
+msgstr "Không có gì thay đổi để lưu"
+
+#: includes/i18n.php:51
+msgid "Please enter new product name"
+msgstr "Vui lòng nhập tên sản phẩm mới"
+
+#: includes/i18n.php:50
+msgid "View on Single product page"
+msgstr "Thông tin trên trang chi tiết sản phẩm"
+
+#: includes/i18n.php:49
+msgid "Go to edit product page"
+msgstr "Đến trang chỉnh sửa sản phẩm"
+
+#: includes/i18n.php:48
+msgid "Find and Replace"
+msgstr "Tìm và Thay thế"
+
+#: includes/i18n.php:47
+msgid "Calculator"
+msgstr "Máy tính"
+
+#: includes/i18n.php:46
+msgid "variations are added"
+msgstr "Biến thể đã được thêm"
+
+#: includes/i18n.php:45
+msgid "Save new attributes before"
+msgstr "Lưu thuộc tính mới trước đó"
+
+#: includes/i18n.php:44
+msgid "Create variations from all attributes"
+msgstr "Tạo biến thể từ tất cả thuộc tính"
+
+#: includes/i18n.php:43
+msgid "Add variation"
+msgstr "Thêm biến thể"
+
+#: includes/i18n.php:42
+msgid "Variations cannot revert after save"
+msgstr "Biến thể không thể hoàn nguyên sau khi lưu"
+
+#: includes/i18n.php:41
+msgid "Delete selected rows"
+msgstr "Xóa hàng đã chọn"
+
+#: includes/i18n.php:40
+msgid "Edit metadata"
+msgstr "Chỉnh sửa metadata"
+
+#: includes/i18n.php:39
+msgid "Enter some text, or some attributes by \"|\" separating values."
+msgstr "Điền giá trị, hoặc một vài thuộc tính được ngăn cách bởi dấu \"|\"."
+
+#: includes/i18n.php:38
+msgid "Custom attribute name"
+msgstr "Tên thuộc tính tùy chỉnh"
+
+#: includes/i18n.php:36
+msgid "Select none"
+msgstr "Không chọn"
+
+#: includes/i18n.php:35
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#: includes/i18n.php:34
+msgid "Enter a name for the new attribute term:"
+msgstr "Điền tên cho giá trị thuộc tính mới:"
+
+#: includes/i18n.php:33
+msgid "Search products..."
+msgstr "Tìm sản phẩm..."
+
+#: includes/i18n.php:32
+msgid "Search tags..."
+msgstr "Tìm thẻ..."
+
+#: includes/i18n.php:31
+msgid "Add file"
+msgstr "Thêm tệp"
+
+#: includes/i18n.php:30
+msgid "File URL"
+msgstr "Liên kết tệp"
+
+#: includes/i18n.php:29
+msgid "Name"
+msgstr "Tên"
+
+#: includes/i18n.php:28
+msgid "Remove all"
+msgstr "Xóa tất cả"
+
+#: includes/i18n.php:27
+msgid "Add image"
+msgstr "Thêm ảnh"
+
+#: includes/i18n.php:26
+msgid "Choose file"
+msgstr "Chọn tệp"
+
+#: includes/i18n.php:25
+msgid "OK"
+msgstr "OK"
+
+#: includes/i18n.php:24
+msgid "Round down"
+msgstr "Làm tròn xuống"
+
+#: includes/i18n.php:23
+msgid "Round up"
+msgstr "Làm tròn lên"
+
+#: includes/i18n.php:22
+msgid "Round with decimal"
+msgstr "Làm tròn với số thập phân"
+
+#: includes/i18n.php:21
+msgid "No round"
+msgstr "Không làm tròn"
+
+#: includes/i18n.php:20
+msgid "Set default attributes"
+msgstr "Đặt thuộc tính mặc định"
+
+#: includes/i18n.php:19
+msgid "Add"
+msgstr "Thêm"
+
+#: includes/i18n.php:18
+msgid "Used for variations"
+msgstr "Sử dụng cho biến thể"
+
+#: includes/i18n.php:17
+msgid "Visible on the product page"
+msgstr "Hiển thị trên trang sản phẩm"
+
+#: includes/i18n.php:16
+msgid "Option"
+msgstr "Tùy chọn"
+
+#: includes/i18n.php:15
+msgid "Attribute"
+msgstr "Thuộc tính"
+
+#: includes/i18n.php:13
+msgid "Edit attributes"
+msgstr "Chỉnh sửa thuộc tính"
+
+#: includes/i18n.php:12
+msgid "Custom product attribute"
+msgstr "Thuộc tính sản phẩm tùy chỉnh"
+
+#: includes/i18n.php:11
+msgid "Any..."
+msgstr "Bất kỳ..."
+
+#: includes/enqueue.php:60
+msgid "Go to Bulk Editor page"
+msgstr "Đến trang Chỉnh sửa hàng loạt"
+
+#: includes/data.php:283
+msgid "No shipping class"
+msgstr "Không có loại hình giao hàng"
+
+#: includes/data.php:282
+msgid "Shipping class"
+msgstr "Loại hình giao hàng"
+
+#: includes/data.php:268
+msgid "Enable reviews"
+msgstr "Cho phép bình luận"
+
+#: includes/data.php:267
+msgid "Menu order"
+msgstr "Thứ tự ưu tiên"
+
+#: includes/data.php:266
+msgid "Purchase note"
+msgstr "Ghi chú mua hàng"
+
+#: includes/data.php:257
+msgid "Tax class"
+msgstr "Loại hình thuế"
+
+#: includes/data.php:249
+msgid "None"
+msgstr "Không có"
+
+#: includes/data.php:248
+msgid "Shipping only"
+msgstr "Chỉ giao hàng"
+
+#: includes/data.php:247
+msgid "Taxable"
+msgstr "Có thuế"
+
+#: includes/data.php:245
+msgid "Tax status"
+msgstr "Tình trạng thuế"
+
+#: includes/data.php:236
+msgid "Download expiry"
+msgstr "Giới hạn ngày tải xuống"
+
+#: includes/data.php:235
+msgid "Download limit"
+msgstr "Giới hạn tải xuống"
+
+#: includes/data.php:231
+msgid "Download file"
+msgstr "Tệp để tải"
+
+#: includes/data.php:225
+msgid "Cross-sells"
+msgstr "Bán chéo"
+
+#: includes/data.php:224
+msgid "Upsells"
+msgstr "Upsells"
+
+#: includes/data.php:222
+msgid "Height"
+msgstr "Chiều cao"
+
+#: includes/data.php:221
+msgid "Width"
+msgstr "Chiều rộng"
+
+#: includes/data.php:220
+msgid "Length"
+msgstr "Chiều dài"
+
+#: includes/data.php:219
+msgid "Weight"
+msgstr "Khối lượng"
+
+#: includes/data.php:198
+msgid "Virtual"
+msgstr "Sản phẩm ảo"
+
+#: includes/data.php:196
+msgid "Allow backorder"
+msgstr "Cho phép đặt hàng trước"
+
+#: includes/data.php:194
+msgid "Stock"
+msgstr "Kho hàng"
+
+#: includes/data.php:193
+msgid "Manage stock"
+msgstr "Quản lý kho hàng"
+
+#: includes/data.php:160
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: includes/data.php:156
+msgid "Disable"
+msgstr "Tắt"
+
+#: includes/data.php:155
+msgid "Enable"
+msgstr "Bật"
+
+#: includes/data.php:152
+msgid "Status"
+msgstr "Trạng thái"
+
+#: includes/data.php:146
+msgid "Button text"
+msgstr "Tiêu đề nút"
+
+#: includes/data.php:140
+msgid "Product URL"
+msgstr "Liên kết sản phẩm"
+
+#: includes/data.php:133
+msgid "Grouped"
+msgstr "Nhóm"
+
+#: includes/data.php:126
+msgid "Default attributes"
+msgstr "Thuộc tính mặc định"
+
+#: includes/data.php:119
+msgid "Attributes"
+msgstr "Thuộc tính"
+
+#: includes/data.php:114
+msgid "Gallery"
+msgstr "Thư viện ảnh"
+
+#: includes/data.php:113
+msgid "Short Desc"
+msgstr "Mô Tả Ngắn"
+
+#: includes/data.php:112
+msgid "Description"
+msgstr "Mô tả"
+
+#: includes/data.php:100
+msgid "Image"
+msgstr "Ảnh"
+
+#: includes/data.php:73 includes/data.php:284
+msgid "Same as parent"
+msgstr "Như bản gốc"
+
+#: includes/data.php:59
+msgid "Published"
+msgstr "Đã đăng"
+
+#: bulky-bulk-edit-products-for-woo.php:116
+msgid "Editor"
+msgstr "Trình chỉnh sửa"
+
+#: admin/editor.php:804
+msgid "Not in"
+msgstr "Không bao gồm"
+
+#: admin/editor.php:803
+msgid "And"
+msgstr "Và"
+
+#: admin/editor.php:802
+msgid "Or"
+msgstr "Hoặc"
+
+#: admin/editor.php:781
+msgid "Empty"
+msgstr "Trống"
+
+#: admin/editor.php:780
+msgid "End"
+msgstr "Kết thúc với"
+
+#: admin/editor.php:779
+msgid "Begin"
+msgstr "Bắt đầu với"
+
+#: admin/editor.php:778
+msgid "Not"
+msgstr "Không bao gồm"
+
+#: admin/editor.php:777
+msgid "Exact"
+msgstr "Chính xác"
+
+#: admin/editor.php:776
+msgid "Like"
+msgstr "Giống"
+
+#: admin/editor.php:583
+msgid "Save & Close"
+msgstr "Lưu & Đóng"
+
+#: admin/editor.php:516
+msgid "Save filter when reload page"
+msgstr "Lưu bộ lọc khi tải lại trang"
+
+#: admin/editor.php:510
+msgid "day(s)"
+msgstr "ngày"
+
+#: admin/editor.php:509
+msgid "Time to delete revision"
+msgstr "Thời gian xóa lịch sử"
+
+#: admin/editor.php:500
+msgid "Order"
+msgstr "Đơn hàng"
+
+#: includes/data.php:174
+msgid "Sale price"
+msgstr "Giá khuyến mãi"
+
+#: includes/data.php:166
+msgid "Regular price"
+msgstr "Giá bán thường"
+
+#: admin/editor.php:488
+msgid "Order by"
+msgstr "Sắp xếp theo"
+
+#: admin/editor.php:478
+msgid "Load variations"
+msgstr "Tải biến thể"
+
+#: admin/editor.php:472
+msgid "Products per page (default: 10)"
+msgstr "Số lượng sản phẩm trên một trang (Mặc định: 10)"
+
+#: admin/editor.php:460
+msgid "No field"
+msgstr "Không có trường"
+
+#: admin/editor.php:459
+msgid "Exclude fields to edit"
+msgstr "Loại trừ các trường để chỉnh sửa"
+
+#: admin/editor.php:451
+msgid "All fields"
+msgstr "Tất cả trường"
+
+#: admin/editor.php:450
+msgid "Fields to edit"
+msgstr "Trường để chỉnh sửa"
+
+#: admin/editor.php:436
+msgid "Clear"
+msgstr "Xóa"
+
+#: admin/editor.php:402 includes/data.php:212
+msgid "Tags"
+msgstr "Thẻ"
+
+#: admin/editor.php:394 includes/data.php:203
+msgid "Categories"
+msgstr "Danh mục"
+
+#: admin/editor.php:388 includes/data.php:275
+msgid "Catalog visibility"
+msgstr "Mức độ hiển thị catalog"
+
+#: admin/editor.php:373
+msgid "Backorders"
+msgstr "Đặt hàng trước"
+
+#: admin/editor.php:360 includes/data.php:197
+msgid "Sold individually"
+msgstr "Bán riêng"
+
+#: admin/editor.php:351 includes/data.php:227
+msgid "Downloadable"
+msgstr "Có thể tải xuống"
+
+#: admin/editor.php:339 admin/editor.php:353 admin/editor.php:362
+#: admin/editor.php:481
+msgid "No"
+msgstr "Không"
+
+#: admin/editor.php:338 admin/editor.php:352 admin/editor.php:361
+#: admin/editor.php:480
+msgid "Yes"
+msgstr "Có"
+
+#: admin/editor.php:337 includes/data.php:161
+msgid "Featured"
+msgstr "Nổi bật"
+
+#: admin/editor.php:331 includes/data.php:195
+msgid "Stock status"
+msgstr "Trạng thái kho hàng"
+
+#: admin/editor.php:320
+msgid "Publish"
+msgstr "Đăng"
+
+#: admin/editor.php:319 includes/data.php:63
+msgid "Private"
+msgstr "Riêng tư"
+
+#: admin/editor.php:318 includes/data.php:61
+msgid "Pending"
+msgstr "Đang duyệt"
+
+#: admin/editor.php:317 includes/data.php:62
+msgid "Draft"
+msgstr "Nháp"
+
+#: admin/editor.php:316
+msgid "Product status"
+msgstr "Trạng thái sản phẩm"
+
+#: admin/editor.php:310 includes/data.php:99
+msgid "Product type"
+msgstr "Loại sản phẩm"
+
+#: admin/editor.php:300
+msgid "Weight to"
+msgstr "Khối lượng đến"
+
+#: admin/editor.php:295
+msgid "Weight from"
+msgstr "Khối lượng từ"
+
+#: admin/editor.php:285
+msgid "Lenght to"
+msgstr "Chiều dài đến"
+
+#: admin/editor.php:280
+msgid "Lenght from"
+msgstr "Chiều dài từ"
+
+#: admin/editor.php:270
+msgid "Height to"
+msgstr "Chiều cao đến"
+
+#: admin/editor.php:265
+msgid "Height from"
+msgstr "Chiều cao từ"
+
+#: admin/editor.php:255
+msgid "Width to"
+msgstr "Chiều rộng đến"
+
+#: admin/editor.php:250
+msgid "Width from"
+msgstr "Chiều rộng từ"
+
+#: admin/editor.php:240
+msgid "Stock quantity to"
+msgstr "Số lượng trong kho đến"
+
+#: admin/editor.php:235
+msgid "Stock quantity from"
+msgstr "Số lượng trong kho từ"
+
+#: admin/editor.php:225 includes/data.php:189
+msgid "Sale date to"
+msgstr "Ngày giảm giá đến"
+
+#: admin/editor.php:220 includes/data.php:182
+msgid "Sale date from"
+msgstr "Ngày giảm giá từ"
+
+#: admin/editor.php:210
+msgid "Sale price to"
+msgstr "Giá khuyến mãi đến"
+
+#: admin/editor.php:205
+msgid "Sale price from"
+msgstr "Giá khuyến mãi từ"
+
+#: admin/editor.php:195
+msgid "Regular price to"
+msgstr "Giá bán thường đến"
+
+#: admin/editor.php:190
+msgid "Regular price from"
+msgstr "Giá bán thường từ"
+
+#: admin/editor.php:180
+msgid "Post date to"
+msgstr "Ngày đăng bài đến"
+
+#: admin/editor.php:175
+msgid "Post date from"
+msgstr "Ngày đăng bài từ"
+
+#: admin/editor.php:164 admin/editor.php:493 includes/data.php:102
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/editor.php:157 includes/data.php:103
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/editor.php:150
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: admin/editor.php:143
+msgid "Content"
+msgstr "Nội dung"
+
+#: admin/editor.php:136 admin/editor.php:491 includes/data.php:98
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: admin/editor.php:130
+msgid "ID"
+msgstr "ID"
+
+#: admin/editor.php:60
+msgid "Full screen"
+msgstr "Toàn màn hình"
+
+#: admin/editor.php:94
+msgid "Reload this page"
+msgstr "Tải lại trang"
+
+#: admin/editor.php:90 admin/editor.php:537 admin/editor.php:580
+#: includes/i18n.php:14
+msgid "Save"
+msgstr "Lưu"
+
+#: admin/editor.php:87 includes/i18n.php:37
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: admin/editor.php:83 admin/editor.php:121
+msgid "History"
+msgstr "Lịch sử"
+
+#: admin/editor.php:80 admin/editor.php:120
+msgid "Meta fields"
+msgstr "Trường Meta"
+
+#: admin/editor.php:72 admin/editor.php:118 admin/editor.php:433
+msgid "Filter"
+msgstr "Lọc"
+
+#: admin/editor.php:52
+msgid "Author"
+msgstr "Tác giả"
+
+#: admin/ajax.php:567
+msgid "No history id"
+msgstr "Không có lịch sử id"
+
+#: admin/ajax.php:553 admin/ajax.php:583
+msgid "Product is not exist"
+msgstr "Sản phẩm không tồn tại"
+
+#: admin/ajax.php:63
+msgid "Method is not exist"
+msgstr "Phương thức không tồn tại"
+
+#: admin/editor.php:76 admin/editor.php:119
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/admin.php:23
+msgid "WooCommerce Bulk Editor"
+msgstr "WooCommerce Bulk Editor"
+
+#. Author URI of the plugin
+#: bulky-bulk-edit-products-for-woo.php
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#. Author of the plugin
+#: bulky-bulk-edit-products-for-woo.php
+msgid "VillaTheme"
+msgstr "VillaTheme"
+
+#. Plugin URI of the plugin
+#: bulky-bulk-edit-products-for-woo.php
+msgid "https://villatheme.com/extensions/bulky-woocommerce-bulk-edit-products/"
+msgstr "https://villatheme.com/extensions/bulky-woocommerce-bulk-edit-products/"
+
+#. Plugin Name of the plugin
+#: bulky-bulk-edit-products-for-woo.php
+msgid "Bulky - Bulk Edit Products for WooCommerce"
+msgstr "Bulky - Bulk Edit Products for WooCommerce"
