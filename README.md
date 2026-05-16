@@ -19,11 +19,11 @@ VPS Store là website thương mại điện tử chuyên cung cấp dịch vụ
 ---
 
 ## 3. Danh sách thành viên
-| STT | Họ và tên | MSSV |
-|-----|-----------|------|
-| 1 | Nguyễn Văn Vinh | 23810310047 |
-| 2 | Nguyễn Huy Hoàng | 23810310064 |
-| 3 | Nguyễn Việt Dũng | 23810310062 |
+| STT | Họ và tên |
+|-----|-----------|
+| 1 | Nguyễn Văn Vinh |
+| 2 | Nguyễn Huy Hoàng | 
+| 3 | Nguyễn Việt Dũng | 
 
 ---
 
