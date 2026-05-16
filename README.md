@@ -158,7 +158,7 @@ systemctl restart mysql
 ---
 
 ## 10. Hình ảnh minh họa
-![Trang chủ](screenshots/homepage.png)
+![Trang chủ](Screenshot 2026-05-16 155749.png)
 ![Trang sản phẩm](screenshots/products.png)
 ![Trang thanh toán](screenshots/checkout.png)
 ![Trang admin](screenshots/admin.png)
