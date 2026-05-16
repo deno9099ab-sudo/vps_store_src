@@ -166,7 +166,7 @@ systemctl restart mysql
 ---
 
 ## 11. Link video demo
-[Xem video demo tại đây](https://youtube.com/...)
+[Xem video demo tại đây](https://drive.google.com/file/d/1XQvmMPlJxNPxwADEhL0MZC7hCzIw3Ye-/view?usp=sharing)
 
 ---
 
